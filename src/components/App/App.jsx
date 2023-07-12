@@ -14,7 +14,7 @@ class App extends Component {
     bad: 0,
   };
 
-  onButtonGoodClick = state => {
+  onButtonGoodClick = () => {
     this.setState(prevState => ({
       good: prevState.good + 1,
     }));
