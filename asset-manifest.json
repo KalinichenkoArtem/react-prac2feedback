@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-prac2phone/static/css/main.7acaea2f.css",
-    "main.js": "/react-prac2phone/static/js/main.1161df56.js",
-    "index.html": "/react-prac2phone/index.html",
-    "main.7acaea2f.css.map": "/react-prac2phone/static/css/main.7acaea2f.css.map",
-    "main.1161df56.js.map": "/react-prac2phone/static/js/main.1161df56.js.map"
+    "main.css": "/react-prac2feedback/static/css/main.7acaea2f.css",
+    "main.js": "/react-prac2feedback/static/js/main.05eb21ce.js",
+    "index.html": "/react-prac2feedback/index.html",
+    "main.7acaea2f.css.map": "/react-prac2feedback/static/css/main.7acaea2f.css.map",
+    "main.05eb21ce.js.map": "/react-prac2feedback/static/js/main.05eb21ce.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.1161df56.js"
+    "static/js/main.05eb21ce.js"
   ]
 }
